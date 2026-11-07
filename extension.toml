@@ -1,7 +1,7 @@
 id = "ultra-studio-theme"
 name = "Ultra Studio Theme"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["ryan-de-freitas-bordez"]
 description = "The theme for the IDE Ultra Studio"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/UltraSonic-Technologies/ultra-studio-theme"
